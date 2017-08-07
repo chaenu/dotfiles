@@ -51,4 +51,4 @@ fi
 
 ### set various alias ###
 # Go to default project folder, open files in sublime and run npm
-alias aamt="cd; cd Documents/default-project/resources; sublime .; cd; cd Documents/default-project; nvm use --delete-prefix v6.9.4; npm start;"
+alias default="cd; cd Documents/default-project/resources; sublime .; cd; cd Documents/default-project; nvm use --delete-prefix v6.9.4; npm start;"
